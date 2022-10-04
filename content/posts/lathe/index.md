@@ -2,7 +2,7 @@
 title: "Lathe"
 date: 2022-10-04T09:07:53-04:00
 draft: false
-authors: [dvd]
+authors: ["dvd"]
 description: "Good lathe find"
 featuredImage: "lathe-featured.jpg"
 

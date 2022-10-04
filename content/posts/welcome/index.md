@@ -2,7 +2,7 @@
 title: "Welcome!"
 date: 2022-10-04T09:03:02-04:00
 draft: false
-authors: [dvd]
+authors: ["dvd"]
 description: "Welcome to Wallowa Craftworks"
 featuredImage: "welcome-featured.jpg"
 

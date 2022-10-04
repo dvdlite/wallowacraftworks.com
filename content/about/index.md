@@ -1,6 +1,6 @@
 ---
 title: "About Wallowa Craftworks"
-author: "dvd"
+authors: ["dvd"]
 type: page
 date: 2021-02-24T16:36:49+00:00
 lightgallery: true
