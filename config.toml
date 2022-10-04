@@ -701,8 +701,8 @@ theme = "DoIt"
 
 # Author config
 [author]
-  name = " "
-  email = ""
+  name = "dvd"
+  email = "david@wallowacraftworks.com"
   link = ""
   avatar = ""
   gravatarEmail = ""
