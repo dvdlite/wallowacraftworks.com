@@ -53,6 +53,14 @@ theme = "DoIt"
     url = "/about/"
     title = ""
     weight = 5
+  [[menu.main]]
+    identifier = "rss"
+    pre = ""
+    post = ""
+    name = "RSS"
+    url = "/posts/index.xml"
+    title = ""
+    weight = 99
 
 [params]
   #  DoIt theme version

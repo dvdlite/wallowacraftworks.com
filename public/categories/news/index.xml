@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>News - Category - Wallowa Craftworks</title>
+        <link>https://wallowacraftworks.com/categories/news/</link>
+        <description>News - Category - Wallowa Craftworks</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Oct 2022 09:03:02 -0400</lastBuildDate><atom:link href="https://wallowacraftworks.com/categories/news/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome!</title>
+    <link>https://wallowacraftworks.com/welcome/</link>
+    <pubDate>Tue, 04 Oct 2022 09:03:02 -0400</pubDate><author>
+                    <name>dvd</name>
+                </author><guid>https://wallowacraftworks.com/welcome/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/welcome/welcome-featured.jpg" referrerpolicy="no-referrer">
+            </div><h2 id="welcome-to-wallowa-craftworks" class="headerLink">
+    <a href="#welcome-to-wallowa-craftworks" class="header-mark"></a>Welcome to Wallowa Craftworks!</h2><p>Follow me on my journey as I build out my workshop and put my tools to good use! Hopefully someday you will be able to buy my work right here! Thanks for visiting!</p>
+]]></description>
+</item></channel>
+</rss>
