@@ -16,16 +16,16 @@ theme = "DoIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "Blog"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
   [[menu.main]]
     identifier = "tags"
-    pre = ""
+    pre = "( "
     post = ""
-    name = "Tags"
+    name = "By Tag"
     url = "/tags/"
     title = ""
     weight = 2
@@ -33,15 +33,15 @@ theme = "DoIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "By Category"
     url = "/categories/"
     title = ""
     weight = 3
   [[menu.main]]
     identifier = "series"
     pre = ""
-    post = ""
-    name = "Series"
+    post = " )"
+    name = "By Series"
     url = "/series/"
     title = ""
     weight = 4
@@ -162,7 +162,7 @@ theme = "DoIt"
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = '<div class="links"><font size=+2> <a href="https://facebook.com/WallowaCraftworks" title="facebook" target="_blank" rel="noopener noreferrer me"> <i class="fab fa-facebook fa-fw"></i> </a> <a href="https://www.instagram.com/wallowacraftworks" title="Instagram" target="_blank" rel="noopener noreferrer me"> <i class="fab fa-instagram fa-fw"></i> </a> <a href="https://hachyderm.io/@dvdlite" title="Mastodon" target="_blank" rel="noopener noreferrer me"> <i class="fab fa-mastodon fa-fw"></i> </a> </a> <a href="https://tiktok.com/@dvdlite" title="TikTok" target="_blank" rel="noopener noreferrer me"> <i class="fab fa-tiktok fa-fw"></i> </a> <a href="mailto:david@wallowacraftworks.com" title="Email" rel=" me"> <i class="far fa-envelope fa-fw"></i> </a> </font> </div><a rel="me" href="https://hachyderm.io/@dvdlite"> </a>'
     #  whether to show Hugo and theme info
     hugo = false
     #  Hosted on (HTML format is supported)
@@ -224,7 +224,7 @@ theme = "DoIt"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
-      social = true
+      social = false
       #  disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
